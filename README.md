@@ -3,7 +3,7 @@ A Wikipedia Search client created using HTML/CSS and JavaScript.
 
 ### Preview of the Page
 
-CodePen Link (Live Preview): https://codepen.io/emonhoque/full/gOmZgEz
+CodePen Link (Live Preview): https://codepen.io/emonhoque/full/poeBYOd
 
 #### 1. Home Page
 <img src="https://user-images.githubusercontent.com/56671915/122731614-0f6ee380-d2ae-11eb-8690-ae06bcbcc5eb.png" alt="Homepage" width="800"/>
