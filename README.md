@@ -1,5 +1,5 @@
 # Wikipedia-Search
-A Wikipedia Search client created using HTML/CSS and JavaScript.
+A Wikipedia Search client created using HTML/CSS and JavaScript and has PWA Support. 
 
 ### Preview of the Page
 
