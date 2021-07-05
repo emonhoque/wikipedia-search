@@ -1,3 +1,7 @@
+window.addEventListener('load', () => {
+  registerSW();
+});
+
 $(document).ready(() => {
     $("#random").click(() => {
       return window.open("https://en.wikipedia.org/wiki/Special:Random");
@@ -67,3 +71,13 @@ $(document).ready(() => {
     }
     WikiSearch();
   });
+
+async function registerSW() {
+  if ('serviceWorker' in navigator) {
+    try {
+      await navigator.serviceWorker.register('./sw.js');
+    } catch (e) {
+      console.log(`Service Worker registration failed`);
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Wikipedia Search",
+  "short_name": "Wiki",
+  "start_url": ".",
+  "theme_color": "#fff",
+  "display": "fullscreen",
+  "background_color": "#fff",
+  "description": "Search on Wikipedia!",
+  "icons": [
+    {
+      "src": "wiki-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "wiki-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
